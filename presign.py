@@ -1,4 +1,3 @@
-from io import BytesIO
 import boto3
 import logging
 from botocore.exceptions import ClientError
